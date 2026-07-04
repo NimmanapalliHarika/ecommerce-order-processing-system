@@ -1,4 +1,3 @@
-# ecommerce-order-processing-system
 # 🛒 E-Commerce Order Processing System
 
 > A production-ready microservices-based e-commerce backend built using **Java 21**, **Spring Boot**, **Spring Cloud**, **Apache Kafka**, **Redis**, **Docker**, **GitHub Actions**, and **AWS**.
